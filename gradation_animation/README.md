@@ -4,3 +4,6 @@
 * background-size: 400% 400%;  -> 배경사이즈를 크게 설정하여 위에서 디자인한 그라데이션이 일부만 보이게 한다.
 * animation -> 애니메이션 효과!!!ㅑ
 * @keyframes -> 애니메이션 효과시 배경이미지 위치
+
+
+gradation animation 설정하고 싶을 때 도움 주는 사이트 : <a href="https://www.gradient-animator.com/">https://www.gradient-animator.com/</a>
